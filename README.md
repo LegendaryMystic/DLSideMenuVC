@@ -2,7 +2,7 @@
 A sample demo for the left - side Menu just the old version of QQ.简易抽屉效果DEMO，类似QQ
 
 # 效果预览图：
-![image](https://github.com/LegendaryMystic/DLSideMenuVC/blob/ReadMeImages/master/Side.gif )
+![image](https://github.com/LegendaryMystic/DLSideMenuVC/blob/master/ReadMeImages/Side.gif?raw=true)
 
 # API :(详情参看DLSideViewController.h)
 ```objc
