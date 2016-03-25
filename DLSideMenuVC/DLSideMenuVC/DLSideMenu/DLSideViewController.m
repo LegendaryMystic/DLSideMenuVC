@@ -72,6 +72,9 @@
         //初始时侧滑窗关闭
         self.closed = YES;
         
+        //默认设置边缘滑动  可滑动宽度为30（只有非全屏滑动时才有用）
+        self.leftEdge = 30.0;
+        
     }
     return self;
 }
